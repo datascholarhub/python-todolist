@@ -1,5 +1,5 @@
 Tout au long de ce TP, nous allons implémentez une application de gestion de tâches (ToDoList).
-Le document n'a pas jamais été révisé donc il est possible que vous y trouvez des erreurs. N'hésitez pas à me le signaler.
+Le document n'a pas été révisé donc il est possible que vous y trouvez des erreurs. N'hésitez pas à me le signaler.
 
 - Gmail: [assogbaromaricci@gmail.com](mailto:assogbaromaricci@gmail.com)
 
@@ -971,3 +971,4 @@ Prochainement, on verra comment enregistrer les tâches dans un fichier pour gar
 
 A la prochaine.... 
 A vous maintenant de personnaliser le code comme vous voulez, rajoutez des fonctionnalités de votre choix. Ce code est loin d'être parfait mais c'est un bon début.
+
